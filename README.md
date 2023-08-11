@@ -4,9 +4,16 @@ This repository offers a structured representation of the Hornbostel-Sachs Class
 
 ## Features:
 
-- **Structured Hornbostel-Sachs Classification**: A detailed JSON representation of the current Hornbostel-Sachs classification system, allowing for structured data queries and integration.
+- **Structured Hornbostel-Sachs Classification**: A detailed JSON representation of the current Hornbostel-Sachs classification system, allowing for structured data queries and integration. Each classification contains:
+  - **Label**: Name of classification.
+  - **Instruments**: List of class-related instruments.
+  - **Description**: Description of the classification.
+  - **MIMOPage**: Reference page to the source on MIMO.
    
-- **Multilingual Translation Data**: The database encompasses multilingual translations of instrument names, ensuring its utility for international academic and research endeavors, especially for text-based provenance research activities.
+- **Multilingual Translation Data**: The database encompasses multilingual translations of instrument names, ensuring its utility for international academic and research endeavors, especially for text-based provenance research activities. Each entry contains:
+  - **Label**: Primary name of the instrument in the source language.
+  - **Translations**: Dictionary containing translations of the instrument name in multiple languages (e.g., "zh", "sv", "en").
+  - **MIMOPage**: Reference page to the source on MIMO.
 
 - **Data Retrieval Scripts**: The repository incorporates scripts to retrieve the current state of classifications or translations based on MIMO. This ensures transparency and offers researchers the possibility to replicate or adapt the data collection process.
 
