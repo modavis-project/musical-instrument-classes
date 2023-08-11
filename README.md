@@ -1,6 +1,6 @@
 # Hornbostel-Sachs Classifications and Musical Instruments Translation Database (JSON) 
 
-This repository offers a structured representation of the Hornbostel-Sachs Classification System for Musical Instruments in a JSON format, primarily designed to facilitate advanced integration with Large Language Models (LLMs) and Prompt-Based Segmentation Models. The database is augmented with multilingual translations of instrument names, sourced from [MIMO (Musical Instrument Museums Online)](https://mimo-international.com/MIMO/).
+This repository offers a structured representation of the Hornbostel-Sachs Classification System for Musical Instruments in a JSON format, primarily designed to facilitate advanced integration with Large Language Models (LLMs) and Prompt-Based Segmentation Models. The database is augmented with multilingual translations of 2724 instrument names, sourced from [MIMO (Musical Instrument Museums Online)](https://mimo-international.com/MIMO/).
 
 ## Features:
 
