@@ -25,7 +25,7 @@ All data within this repository has been responsibly retrieved from [MIMO](https
 ## Potential Applications:
 
 - Augmenting Large Language Models (LLMs) with specialized knowledge of musical instrument classifications.
-- Augmenting Prompt-Based Visual Segmentation by detailed Class Descriptions.
+- Augmenting Prompt-Based Visual Segmentation by detailed class descriptions.
 - Structured data extraction tasks for academic projects and research studies.
-- Provenance research, working with multilingual data on text-based sources for object provenances.
-- Tools and platforms aiming to foster a nuanced understanding of global musical heritage, leveraging multilingual data.
+- Provenance research, working with multilingual text-based sources.
+- Research on Hornbostel-Sachs and other classification systems.
